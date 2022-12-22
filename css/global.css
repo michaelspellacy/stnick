@@ -50,6 +50,10 @@ margin: 1em 0;
 padding: 0;
 }
 
+q {
+font-style: italic;
+}
+
 h1 + p {
 color: #EB3216;
 margin-top: 0.5em;
